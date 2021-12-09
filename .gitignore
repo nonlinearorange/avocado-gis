@@ -5,3 +5,8 @@
 __pycache__/
 **/venv
 *.pyc
+
+# Resources
+**/original-images
+**/working-images
+*.png
